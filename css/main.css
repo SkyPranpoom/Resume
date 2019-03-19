@@ -8,3 +8,17 @@ and open the template in the editor.
     Author     : SKY
 */
 
+h1{
+    font-family:georgia,garamond,serif !important;
+    font-size:50px;
+    font-style:italic;
+    margin-top: 80px;
+}
+td{
+    margin-left: 50px
+}
+hr{
+    border: 0.5px;
+    border-style: solid ;
+    border-color: #cccccc;
+}
